@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VeryBigSigmalBalls/SigmaBallsFlingFling/refs/heads/main/flingfling.txt"))()
